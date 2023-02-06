@@ -1,2 +1,2 @@
 # sudoku-solver
-Programa que resolver um jogo de sudoku.
+Programa que resolve um jogo de sudoku.
